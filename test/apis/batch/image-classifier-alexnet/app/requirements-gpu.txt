@@ -3,5 +3,5 @@ sentencepiece==0.1.94
 fastapi
 requests
 boto3==1.17.*
-torch==2.7.0
+torch==2.7.1
 torchvision==0.8.*
